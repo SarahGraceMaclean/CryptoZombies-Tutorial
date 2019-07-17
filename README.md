@@ -1,5 +1,7 @@
 # CryptoZombies-Tutorial
 
+This is a tutorial which teaches one to code Ethereum DApps in Solidity using smart contracts
+
 Level 1 
 https://share.cryptozombies.io/en/lesson/1/share/Sarah?id=Z2l0aHVifDQwNjExNTEx
 
